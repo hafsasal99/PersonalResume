@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Hafsa\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Hafsa Saleem</string>
+    <string name="resume_title">Junior Undergrad CS Student</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">hafsasaleem3@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Activities and Co-Curriculars</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923234985475</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/hafsasaleem/</string>
+    <string name="Linkedin_UserName">hafsasaleem</string>
+    <string name="Github_UserName">hafsasal99</string>
+    <string name="Github_IdLink">https://github.com/hafsasal99</string>
+    <string name="ieee_link">https://ieeexplore.ieee.org/document/7840114</string>
+    <string name="StackOverFlow_UserName">Hafsa Saleem</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/12119960/hafsa-saleem</string>
+    <string name="education">Education</string>
+    <string name="answer">Having an inquisitive mind that finds learning and seeking enlightenment fulfilling,I thrive best among growth-oriented people.My ultimate goal is self-actualization and to be more of a creator than consumer.</string>
+    <string name="answer1">I put my heart and soul into all that I do and actively seek to learn from my mistakes and use my failures as stepping stones to success.
+       </string>
+    <string name="experience_title">Senior Software Engineer</string>
+    <string name="experience_description">"\u2713 Picasso,Glide (Libraries)\n""\u2713 MVP \n""\u2713 MVVM \n""\u2713 Room Database\n""\u2713 Firebase"</string>
+    <string name="why_i_did_choose_work_1">"\u2713 Because I need to cache the image\n""\u2713 Design pattern - unit testing easier and lesser\n"\u0020 \u0020 "code size than MVP\n""\u2713 Design pattern - Easier for unit testing\n""\u2713 Save data in a local database using Room\n""\u2713 Firebase provides a realtime database and \n"\u0020 \u0020 "backend as a service"
+
+    </string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">Visiting Faculty</string>
+    <string name="experience_description1">\u2713 Course: Software for Mobile Devices \n\u2713 Course: Advanced Programming\n\u2713 Total Students: 216</string>
+    <string name="experience_year1">(year)</string>
+    <string name="experience_title2">Software Engineer</string>
+    <string name="experience_description2">\u2713 Java for Blackberry SDK 7.1 \n\u2713 Java for Android\n\u2713 Sencha Touch 2 (HTML5)\n\u2713 SMTP Mail Configurations\n\u2713 CronJobs and Task Schedulers for Auto Execution of the Scripts at a given time.</string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+
+    <string name="project_title">Web-Based Hotel Reservation System</string>
+    <string name="project_description">\u2713 Led and managed a team of 4 members
+        \n\u2713 Developed a fully functional system using Microsoft SQL Server and C# in conjunction with MVC Model in Asp.NET for interactive and appealing user interfaces
+    </string>
+    <string name="year">(2019)</string>
+
+    <string name="project_title1">Playing Around with Linux</string>
+    <string name="project_description1">"\u2713 Successfully modified the Linux Kernel by adding a system call to reboot the system when the given set of time has elapsed \n \u2713 Developed a primitive Linux Shell in C with enhanced functionalities including file privacy
+   </string>
+    <string name="year1">(2019)</string>
+    <string name="project_title2">Console-Based Mini Facebook Version </string>
+    <string name="project_description2">\u2713 Reinforced grasp of OOP concepts by creating a basic version of Facebook in C++</string>
+    <string name="project_title3">Compression Program for Text Files </string>
+    <string name="project_description3">\u2713 Developed a compression program using Huffman Encoding in C++ enhancing my command over Data Structures like Min Heap and Trees </string>
+    <string name="project_title4">Traditional Snake Game </string>
+    <string name="project_description4">\u2713 Developed in Assembly Language for 8088 Processor</string>
+    <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">0 Levels</string>
+    <string name="school_name">The Lahore Lyceum</string>
+    <string name="intermediate_title">A Levels </string>
+    <string name="college_title">Beaconhouse College Campus Gulberg</string>
+    <string name="graduation_title">Bachelors of Science in CS (BSCS) </string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">National University of Computer And Emerging Sciences</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2014)</string>
+    <string name="college_year">(2015 – 2017)</string>
+    <string name="university_year">(2017 – Present)</string>
+    <string name="Cgpa">3.66/4.0</string>
+    <string name="certification_courses_title">Awards And Achievements</string>
+    <string name="institute_title">Bachelor of Computer Science</string>
+    <string name="institute_year">Cumulative GPA : 3.66, Dean\'s List 4 semesters</string>
+    <string name="grades">Bachelors of Computer Science</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">Android</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">C++</string>
+    <string name="skill_title_4">Asp.NET and MVC</string>
+    <string name="skill_title_5">SQL</string>
+    <string name="projects_title">Academic Projects</string>
+    <string name="why_i_did_choose_above_title_0">Why above:</string>
+    <string name="why_i_did_choose_above_title_1">Why did I choose to teach:</string>
+    <string name="why_i_did_choose_work_2">"\u2713" Teaching does not finish when we give our students the information, it can be acquired from many sources, but the ability to think, reason and criticize can only be incorporated if we foster and encourage them through thick and thin.</string>
+    <string name="why_i_did_choose_work_3">"\u2713" Client based company, so considering the requirements from clients and keeping in point latest technology at that time I used above technology stack. </string>
+    <string name="company_name1">YumyApps Pvt Ltd</string>
+    <string name="experience_time1">November 2016 - October (3 years)</string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">National University College of Computer and Emerging Sciences</string>
+    <string name="experience_time2">August 2018 - December 2019 (~1.5 years)</string>
+    <string name="worked_on2">Worked On:</string>
+    <string name="company_name3">MobilezApp inc</string>
+    <string name="experience_time3">August 2012 - January 2014 (1.6 years)</string>
+    <string name="worked_on3">Worked On:</string>
+
+
+    <string name="Alevels">Cambridge International A Level</string>
+    <string name="result">2A*s (Physics &amp; Computer Science) &amp; 2As(Chemistry &amp;  Mathematics) </string>
+    <string name="Olevels">Cambridge International O Level</string>
+    <string name="Distinction">Regional Level Distinction in Second Language Urdu</string>
+    <string name="result2">Overall Result : 7A*s &amp; 1 Distinction</string>
+    <string name="LGS">LGS JT Girls</string>
+    <string name="Event">Inter-School Bilingual Prose And Poetry Recitation Competition</string>
+    <string name="award">""Best Prose Reader</string>
+
+    <string name="activity_title1">ACM Student Chapter FAST NUCES Lahore</string>
+    <string name="activity_title2">Softec FAST NUCES Lahore</string>
+    <string name="date_1">Sep 2019-Present\n</string>
+    <string name="date_2">Feb 2018-Present\n</string>
+    <string name="activity_description1">Assistant General Secretary</string>
+    <string name="activity_description2">Media And Promotions Volunteer (2018),Evaluations Volunteer(2018),Deputy Head Conferences(2019)\nCo-Organized Data Science And Cyber Security Talks</string>
+</resources>
